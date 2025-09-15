@@ -1,1 +1,11 @@
-Ai text 2
+AI Usage Journal 
+INST 326 - 0302
+Uzzam Tariq
+
+Week 1
+
+This week I used AI to the minimum since we practiced basic pyhton skills which we should 
+know as students but i found that for when i asked for examples on certains areas like 
+properly syntaxing f-strings. I found out that chatgpt gave me better answers than claude. 
+However this could be just a personal opinion of mine. 
+
