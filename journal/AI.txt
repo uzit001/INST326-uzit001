@@ -9,3 +9,18 @@ know as students but i found that for when i asked for examples on certains area
 properly syntaxing f-strings. I found out that chatgpt gave me better answers than claude. 
 However this could be just a personal opinion of mine. 
 
+Week 2
+
+This week I mostly utilized AI to aid me in debugging code. I used it to explain errors in my 
+code so that I can fix it. I used chatGPT and Claude, and I believe both give very similar replies. 
+I havent yet formed a preferance between both.
+
+Week 3
+
+This week I observed myself using less AI. the exercises have been like puzzle games and 
+intrigue me. I was able to keep my AI usage minimumum and even if i did use AI i utilized chatGPT 
+just beacuse from my coding related searches on different platforms I have realized that GPT's 
+responce works best for me. I have also built up the habit of rechecking the responses i recieve 
+to make sure the accuracy and completeness of them. I used AI to help understand the question 
+requirements and intructions. Sometimes the words are little tricky or confusing so I use AI aid 
+to progress in the right direction from the start. 
