@@ -24,3 +24,9 @@ responce works best for me. I have also built up the habit of rechecking the res
 to make sure the accuracy and completeness of them. I used AI to help understand the question 
 requirements and intructions. Sometimes the words are little tricky or confusing so I use AI aid 
 to progress in the right direction from the start. 
+
+Week 4
+
+This week I mainly used to AI help from chatGPT to understand the concept of classes and attributes and 
+how to properly code them. Other than that I used to help me understand intructions and requirements for 
+some excercise questions. 
