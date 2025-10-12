@@ -30,3 +30,11 @@ Week 4
 This week I mainly used to AI help from chatGPT to understand the concept of classes and attributes and 
 how to properly code them. Other than that I used to help me understand intructions and requirements for 
 some excercise questions. 
+
+Week 5
+
+This week we had our project 1 due that was creating a functions library for our selcted domain. I mostly 
+utlized Claude for this project. I used AI to first help me undertand the project itself like requirements 
+and necessary guidleines and then asked it to help me structure the project and create an outline for me so 
+that I can easily track my progress. Whatever responses I received from Claude, I verfified them and made sure
+they are correct before implementing them in my project.
