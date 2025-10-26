@@ -38,3 +38,12 @@ utlized Claude for this project. I used AI to first help me undertand the projec
 and necessary guidleines and then asked it to help me structure the project and create an outline for me so 
 that I can easily track my progress. Whatever responses I received from Claude, I verfified them and made sure
 they are correct before implementing them in my project.
+
+Week 6
+
+This week, I used Claude to learn and practice Python object-oriented programming fundamentals especially complex 
+exercises focused on building a library management system. I used it for implementations of various classes using 
+instance methods, class methods (@classmethod), and static methods (@staticmethod), covering concepts like ID 
+generation, date utilities, loan policies, catalog management, search filtering, statistical aggregation, and CSV export. 
+This structured approach combined with AI help, helped me reinforce core OOP principles through practical, real-world 
+scenarios.
