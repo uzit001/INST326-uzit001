@@ -47,3 +47,16 @@ instance methods, class methods (@classmethod), and static methods (@staticmetho
 generation, date utilities, loan policies, catalog management, search filtering, statistical aggregation, and CSV export. 
 This structured approach combined with AI help, helped me reinforce core OOP principles through practical, real-world 
 scenarios.
+
+Week 7
+
+I worked with Claude to build a Library Management System for my Python class, focusing on error handling and testing. 
+Claude helped me grasp concepts better annd guided me through concepts like try/except blocks, custom exceptions, and input 
+validation. Together, we created functions for ISBN validation, date parsing, and loan tracking, plus wrote 80+ unit tests 
+to ensure everything works correctly. 
+
+Something else on the side that I would like to share is that I have observed myself to ask Claude from help rather than any 
+other AI tool. I believe its because it helps me understand concepts and coding in easy terms and useful examples, which then
+make it easier to relate to weekly exercises and concepts covered in lecture and discussion sessions. 
+
+
