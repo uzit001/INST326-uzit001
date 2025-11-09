@@ -4,59 +4,83 @@ Uzzam Tariq
 
 Week 1
 
-This week I used AI to the minimum since we practiced basic pyhton skills which we should 
-know as students but i found that for when i asked for examples on certains areas like 
-properly syntaxing f-strings. I found out that chatgpt gave me better answers than claude. 
-However this could be just a personal opinion of mine. 
+This week I used AI to the minimum since we practiced basic pyhton skills
+which we should know as students but i found that for when i asked for 
+examples on certains areas like properly syntaxing f-strings. I found out
+that chatgpt gave me better answers than claude. However this could be 
+just a personal opinion of mine. 
 
 Week 2
 
-This week I mostly utilized AI to aid me in debugging code. I used it to explain errors in my 
-code so that I can fix it. I used chatGPT and Claude, and I believe both give very similar replies. 
-I havent yet formed a preferance between both.
+This week I mostly utilized AI to aid me in debugging code. I used it to
+explain errors in my code so that I can fix it. I used chatGPT and Claude, 
+and I believe both give very similar replies. I havent yet formed a 
+preferance between both.
 
 Week 3
 
-This week I observed myself using less AI. the exercises have been like puzzle games and 
-intrigue me. I was able to keep my AI usage minimumum and even if i did use AI i utilized chatGPT 
-just beacuse from my coding related searches on different platforms I have realized that GPT's 
-responce works best for me. I have also built up the habit of rechecking the responses i recieve 
-to make sure the accuracy and completeness of them. I used AI to help understand the question 
-requirements and intructions. Sometimes the words are little tricky or confusing so I use AI aid 
-to progress in the right direction from the start. 
+This week I observed myself using less AI. the exercises have been like 
+puzzle games and intrigue me. I was able to keep my AI usage minimumum 
+and even if i did use AI i utilized chatGPT just beacuse from my coding 
+related searches on different platforms I have realized that GPT's 
+responce works best for me. I have also built up the habit of rechecking
+the responses i recieve to make sure the accuracy and completeness of 
+them. I used AI to help understand the question requirements and 
+intructions. Sometimes the words are little tricky or confusing so I use 
+AI aid to progress in the right direction from the start. 
 
 Week 4
 
-This week I mainly used to AI help from chatGPT to understand the concept of classes and attributes and 
-how to properly code them. Other than that I used to help me understand intructions and requirements for 
-some excercise questions. 
+This week I mainly used to AI help from chatGPT to understand the concept 
+of classes and attributes and how to properly code them. Other than that
+I used to help me understand intructions and requirements for some 
+excercise questions. 
 
 Week 5
 
-This week we had our project 1 due that was creating a functions library for our selcted domain. I mostly 
-utlized Claude for this project. I used AI to first help me undertand the project itself like requirements 
-and necessary guidleines and then asked it to help me structure the project and create an outline for me so 
-that I can easily track my progress. Whatever responses I received from Claude, I verfified them and made sure
+This week we had our project 1 due that was creating a functions library 
+for our selcted domain. I mostly utlized Claude for this project. I used 
+AI to first help me undertand the project itself like requirements and 
+necessary guidleines and then asked it to help me structure the project 
+and create an outline for me so that I can easily track my progress. 
+Whatever responses I received from Claude, I verfified them and made sure
 they are correct before implementing them in my project.
 
 Week 6
 
-This week, I used Claude to learn and practice Python object-oriented programming fundamentals especially complex 
-exercises focused on building a library management system. I used it for implementations of various classes using 
-instance methods, class methods (@classmethod), and static methods (@staticmethod), covering concepts like ID 
-generation, date utilities, loan policies, catalog management, search filtering, statistical aggregation, and CSV export. 
-This structured approach combined with AI help, helped me reinforce core OOP principles through practical, real-world 
-scenarios.
+This week, I used Claude to learn and practice Python object-oriented 
+programming fundamentals especially complex exercises focused on building
+a library management system. I used it for implementations of various 
+classes using instance methods, class methods (@classmethod), and static 
+methods (@staticmethod), covering concepts like ID generation, date 
+utilities, loan policies, catalog management, search filtering, 
+statistical aggregation, and CSV export. This structured approach 
+combined with AI help, helped me reinforce core OOP principles through 
+practical, real-world scenarios.
 
 Week 7
 
-I worked with Claude to build a Library Management System for my Python class, focusing on error handling and testing. 
-Claude helped me grasp concepts better annd guided me through concepts like try/except blocks, custom exceptions, and input 
-validation. Together, we created functions for ISBN validation, date parsing, and loan tracking, plus wrote 80+ unit tests 
-to ensure everything works correctly. 
+I worked with Claude to build a Library Management System for my Python 
+class, focusing on error handling and testing. Claude helped me grasp 
+concepts better annd guided me through concepts like try/except blocks, 
+custom exceptions, and input validation. Together, we created functions 
+for ISBN validation, date parsing, and loan tracking, plus wrote 80+ 
+unit tests to ensure everything works correctly. 
 
-Something else on the side that I would like to share is that I have observed myself to ask Claude from help rather than any 
-other AI tool. I believe its because it helps me understand concepts and coding in easy terms and useful examples, which then
-make it easier to relate to weekly exercises and concepts covered in lecture and discussion sessions. 
+Something else on the side that I would like to share is that I have 
+observed myself to ask Claude from help rather than any other AI tool. I 
+believe its because it helps me understand concepts and coding in easy 
+terms and useful examples, which then make it easier to relate to weekly
+exercises and concepts covered in lecture and discussion sessions. 
 
 
+Week 8
+
+This week I worked on inheritance and polymorphism exercises while using 
+Claude as my AI assistant for developing the Library Management system. I 
+utlized it for implementing subclasses for PrintedBook, EBook, AudioBook, 
+and ReferenceBook with proper method overriding. I designed polymorphic fee calculations, 
+member specializations, and integrated composition patterns with the 
+Notifier class while using Calude to write comprehensive unit tests and end-to-end scenarios 
+demonstrating polymorphic behavior. Claude also assisted with organizing the 
+code structure.
