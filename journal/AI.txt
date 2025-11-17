@@ -79,8 +79,18 @@ Week 8
 This week I worked on inheritance and polymorphism exercises while using 
 Claude as my AI assistant for developing the Library Management system. I 
 utlized it for implementing subclasses for PrintedBook, EBook, AudioBook, 
-and ReferenceBook with proper method overriding. I designed polymorphic fee calculations, 
-member specializations, and integrated composition patterns with the 
-Notifier class while using Calude to write comprehensive unit tests and end-to-end scenarios 
-demonstrating polymorphic behavior. Claude also assisted with organizing the 
-code structure.
+and ReferenceBook with proper method overriding. I designed polymorphic fee 
+calculations, member specializations, and integrated composition patterns with 
+the Notifier class while using Calude to write comprehensive unit tests and 
+end-to-end scenarios demonstrating polymorphic behavior. Claude also assisted 
+with organizing the code structure.
+
+
+Week 9
+
+This week, I leveraged Claude to deepen my understanding of polymorphism and 
+abstract classes in Python. I used Claude to explore these concepts through 
+dialogue and practical examples. When I encountered confusing explanations, 
+I asked Calude to reorganize and clarify the material with clear labels and 
+sequential structure that matched my learning style. Overall, it helped me 
+greatly in grasping new concepts. 
