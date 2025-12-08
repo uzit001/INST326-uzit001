@@ -106,3 +106,16 @@ confirming whether my implementations followed the instructions correctly, and
 identifying minor issues I might have overlooked. I used Claude like a second set 
 of eyes to validate my logic and ensure consistency across the exercises. 
 This helped me feel more confident in my coding decisions.
+
+Week 12
+
+This week has just been winding up and strengthning skills and concepts that I have 
+learned through out the semester. I went over my chats with Claude and reflected on
+how I utilized it this semester. As a helper. As an personal assistant. But also 
+acknowledging at the same time that it does sometime come up with stuff, provide 
+incorrect responses and hallucinate. I realized that AI is a great tool that helps 
+students plan organize and ace their studies. And I am grateful to have a prof who 
+can also improvised quickly with fast evolving tech world. I would like to conclude 
+that it is good to use AI tools to assist in various tasks but understanding how 
+they work and fact checking is a crucial step before incorporating any kind of AI material 
+into anything. 
